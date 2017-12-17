@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HT4</string>
+
+    <string-array name="planets">
+        <item>Меркурий</item>
+        <item>Венера</item>
+        <item>Земля</item>
+        <item>Марс</item>
+        <item>Юпитер</item>
+        <item>Сатурн</item>
+        <item>Уран</item>
+        <item>Нептун</item>
+    </string-array>
+
+    <string-array name="distanceToSun">
+        <item>57 910 000 км</item>
+        <item>108 200 000 км</item>
+        <item>149 600 000 км</item>
+        <item>227 900 000 км</item>
+        <item>778 500 000 км</item>
+        <item>1 429 000 000 км</item>
+        <item>2 871 200 000 км</item>
+        <item>4 498 000 000 км</item>
+    </string-array>
+</resources>
